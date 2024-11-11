@@ -13,8 +13,6 @@ LinkedIn: www.linkedin.com/in/sneha-marimuthu-ab8a6527b
 GitHub: @snehamuthu326
 😄 Pronouns: She/Her
 
-⚡ Fun fact: I recently won a tech challenge where I used Snapseed for a creative solution, showcasing my knack for blending tech with design!
-
 My ultimate goal is to build a successful career in software development, with a focus on backend development. I’m continuously learning, building, and collaborating on projects that enhance my skills and push me closer to my dreams.
 
 Thank you for visiting my GitHub! Feel free to connect, collaborate, or follow along as I continue this exciting journey. ✨
