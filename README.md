@@ -74,6 +74,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=snehamuthu326&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehamuthu326&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=snehamuthu326&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=3&order=3" height="200" alt="streak graph"  />
+  
+<h4 align="center">📫 Connect with me for contributions, collaborations, or just to talk tech!</h4>
+<p align="center">I'm always open to learning, building, and growing together with fellow developers.<br>Let’s connect and create something amazing! 🚀</p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehamuthu326&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
